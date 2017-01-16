@@ -15,7 +15,7 @@ public class Meal_price
 		Scanner read = new Scanner(System.in);
 		System.out.println("Enter meal price");
 		mealPrice = read.nextDouble();
-		System.out.println("Enter tip percent");
+		System.out.println("Enter tip percent....");
 		tipPercent = read.nextInt();
 		System.out.println("Enter tax percent");
 		taxPercent = read.nextInt();
