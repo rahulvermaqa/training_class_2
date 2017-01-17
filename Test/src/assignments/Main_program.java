@@ -16,7 +16,7 @@ public class Main_program {
 		{
 			T.Throw_Arithmetic();
 		}
-		catch(ArithmeticException E)
+		catch(ArithmeticException Exception)
 		{
 			System.out.println("You have entered 1 or Zero..Exception catched from my end");
 		}
